@@ -10,4 +10,4 @@ NVIC	Nested Vectored Interrupt Controller
   
 	HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)  
   
-It will be called each time a interrupt occurs, parameter GPIO_Pin is the pin that generated the interrupt
+	It will be called each time a interrupt occurs, parameter GPIO_Pin is the pin that generated the interrupt
