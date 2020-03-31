@@ -1,7 +1,8 @@
 # stm32f3-basics
-## Acronyms
-EXTI	EXTernal Interrupt  
-NVIC	Nested Vectored Interrupt Controller  
+| Acronym |                |
+|---------|----------------|
+| EXTI    | EXTernal Interrupt |  
+| NVIC    | Nested Vectored Interrupt Controller |
   
 ## Enable Interrupt for a Pin
 1. [MX] Pinout view => set desired pin to EXTIx.
