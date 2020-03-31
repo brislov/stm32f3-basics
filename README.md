@@ -6,7 +6,7 @@
 | NVIC    | Nested Vectored Interrupt Controller |
 
 ## Enable Interrupt for a Pin
-1. [MX] Pinout view => set desired pin to EXTIx.
+1. [MX] Pinout view => set desired pin to mode EXTIx.
 2. [MX] System Core => NVIC => enable EXTI line x interrupt
 3. Create function
 
